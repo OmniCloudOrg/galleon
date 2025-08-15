@@ -88,11 +88,11 @@ export default function RootLayout({
         <meta property="og:title" content="GalleonFS - High-Performance Distributed Storage System" />
         <meta property="og:description" content="Enterprise-grade distributed filesystem with advanced features like snapshots, backup/recovery, migration, and comprehensive monitoring." />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="/branding/logo-wide-transparent.svg" />
+        <meta property="og:image" content="/galleon/logo-wide-transparent.svg" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="GalleonFS - High-Performance Distributed Storage System" />
         <meta name="twitter:description" content="Enterprise-grade distributed filesystem with advanced features like snapshots, backup/recovery, migration, and comprehensive monitoring." />
-        <meta name="twitter:image" content="/branding/logo-wide-transparent.svg" />
+        <meta name="twitter:image" content="/galleon/logo-wide-transparent.svg" />
       </head>
       <body
         className={`antialiased relative overflow-x-hidden`}
