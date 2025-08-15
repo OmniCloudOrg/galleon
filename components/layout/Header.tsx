@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { Github, ExternalLink } from 'lucide-react';
 
 const ForgeLogoSVG = () => (
-  <img src="/logo-wide-transparent.svg" alt="Forge Logo" className="h-20 pt-5" />
+  <img src="/galleon/logo-wide-transparent.svg" alt="Forge Logo" className="h-20 pt-5" />
 );
 
 type NavLinkProps = {
